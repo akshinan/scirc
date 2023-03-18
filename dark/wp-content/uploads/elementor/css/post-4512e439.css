@@ -18,6 +18,7 @@
 .elementor-4512 .elementor-element.elementor-element-c89aa6e:not(.elementor-motion-effects-element-type-background),
 .elementor-4512 .elementor-element.elementor-element-c89aa6e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: url(../../2022/11/about-us.jpg);
+    filter: invert(1);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
